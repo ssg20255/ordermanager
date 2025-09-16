@@ -1,0 +1,21 @@
+# .gitignore - avoid committing env, virtualenvs, DB files, logs, editor files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.sqlite
+data.sqlite
+instance/
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.log

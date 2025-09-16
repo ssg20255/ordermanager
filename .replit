@@ -1,0 +1,3 @@
+# .replit - Replit run configuration
+run = "python -u run.py"
+language = "python"
